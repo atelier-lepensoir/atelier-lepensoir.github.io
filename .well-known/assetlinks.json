@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.atelierlepensoir.unobjetparjour",
+    "sha256_cert_fingerprints": ["DF:72:BB:6B:03:57:9B:4D:2C:0D:C0:F2:C6:0A:01:9A:4D:47:FA:E6:C5:29:37:C1:F3:2F:07:CC:7B:E6:D6:D0"]
+  }
+}]
